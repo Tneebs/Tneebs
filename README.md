@@ -3,6 +3,7 @@
 
 - 📈 2 ☓ Business Owner & Entrepreneur
 - 📸 Amateur <a href="https://www.instagram.com/newtonheimer/">Photographer / Videographer</a> 
+- 🕷 Arachnid Enthusiast 
 - 👀 Currently looking to expand my network and make quality <a href="https://www.linkedin.com/in/tedneben/">connections</a>
 
 ## Tech Stack 🔧
@@ -40,3 +41,12 @@
 - [Beginning Bootcamp Bonds](https://medium.com/@tedneben/beginning-bootcamp-bonds-6afd56734973?source=rss-5a9c11d8364c------2)
 - [Beginning to Balance Tech](https://medium.com/@tedneben/beginning-to-balance-tech-3c624ebee412?source=rss-5a9c11d8364c------2)
 <!-- BLOG-POST-LIST:END -->
+
+## Contact me 😁
+
+<ul>
+  <a href="https://tedneben.medium.com/" alt="medium_link"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/tedneben/" alt="linkedin_link"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/newtonheimer/" alt="instagram_link"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://studio.youtube.com/channel/UCWZ21OZDoSuvv137rC9Ax2A/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D" alt="youtube_link"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+</ul>
