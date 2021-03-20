@@ -35,11 +35,11 @@
 ## Current Blogs 📖
 
 <!-- BLOG-POST-LIST:START -->
-- [Stepping into Redux from React Pt.3](https://medium.com/@tedneben/stepping-into-redux-from-react-pt-3-4c81d7651f3e?source=rss-5a9c11d8364c------2)
-- [Stepping into Redux from React Pt.2](https://medium.com/@tedneben/stepping-into-redux-from-react-pt-2-13ab05998bfc?source=rss-5a9c11d8364c------2)
-- [Stepping into Redux from React Pt.1](https://medium.com/@tedneben/stepping-into-redux-from-react-pt-1-508966bcfda1?source=rss-5a9c11d8364c------2)
-- [Beginning Bootcamp Bonds](https://medium.com/@tedneben/beginning-bootcamp-bonds-6afd56734973?source=rss-5a9c11d8364c------2)
-- [Beginning to Balance Tech](https://medium.com/@tedneben/beginning-to-balance-tech-3c624ebee412?source=rss-5a9c11d8364c------2)
+- [Stepping into Redux from React Pt.3](https://tedneben.medium.com/stepping-into-redux-from-react-pt-3-4c81d7651f3e?source=rss-5a9c11d8364c------2)
+- [Stepping into Redux from React Pt.2](https://tedneben.medium.com/stepping-into-redux-from-react-pt-2-13ab05998bfc?source=rss-5a9c11d8364c------2)
+- [Stepping into Redux from React Pt.1](https://tedneben.medium.com/stepping-into-redux-from-react-pt-1-508966bcfda1?source=rss-5a9c11d8364c------2)
+- [Beginning Bootcamp Bonds](https://tedneben.medium.com/beginning-bootcamp-bonds-6afd56734973?source=rss-5a9c11d8364c------2)
+- [Beginning to Balance Tech](https://tedneben.medium.com/beginning-to-balance-tech-3c624ebee412?source=rss-5a9c11d8364c------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Contact me 😁
